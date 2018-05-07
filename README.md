@@ -1,2 +1,2 @@
 # VCard
-https://sarahleejara.com/VCard/
+https://sarahleejara.github.io/VCard/
